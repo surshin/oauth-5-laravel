@@ -31,7 +31,7 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.4",
-        "surshin/oauth": "dev-master"
+        "surshin/oauth": "master"
     },
     "require-dev": {
         "illuminate/support": "~5"
