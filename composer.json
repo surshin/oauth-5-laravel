@@ -22,10 +22,9 @@
             "role": "Developer"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "php": ">=5.4",
-        "surshin/oauth": "~0.3@dev"
+        "surshin/oauth": "~0.3"
     },
     "require-dev": {
         "illuminate/support": "~5"
