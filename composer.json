@@ -24,11 +24,11 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "php": ">=5.4",
-        "surshin/oauth": "v1.0.x-dev"
+        "php": ">=5.4"
     },
     "require-dev": {
-        "illuminate/support": "~5"
+        "illuminate/support": "~5",
+        "surshin/oauth": "~0.3"
     },    
     "require-all": true,
     "autoload": {    
