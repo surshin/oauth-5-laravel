@@ -24,7 +24,7 @@
     ],
     "require": {
         "php": ">=5.4",
-        "surshin/oauth": "~0.3"
+        "surshin/oauth": "dev-master"
     },
     "require-dev": {
         "illuminate/support": "~5"
